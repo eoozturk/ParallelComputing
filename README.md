@@ -14,7 +14,7 @@ Paralel hesaplamayla bir problemin;
 
 Bir problemin eş parçalara ayrılarak eş zamanlı olarak farklı CPU’larda çalıştırılması: 
 
-<img src="images/img1.png"/>
+<p align="center"><img src="images/img1.png"/></p>
 
 ### Neden Paralel Hesaplama? 
 •	Bellek kullanımını en uygun şekilde gerçekleştirerek bilgisayardaki yavaşlamaları engellemesi, 
